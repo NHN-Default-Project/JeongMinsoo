@@ -1,7 +1,5 @@
 package JeongMinsoo.week1.Chapter3;
 
-import textio.TextIO;
-
 public class Excercise3_2 {
 
     public static void main(String[] args) {

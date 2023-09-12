@@ -1,0 +1,58 @@
+= 팀 Default Project 공부 계획
+
+.내용 
+*팀명* : DP (Default Project) +
+*구성원* : 정민수, 최윤화, 박민수, 정재현, 이가은 +
+*그룹과정* : 선택과정 2를 중심으로, 4주차(~20일)에 걸쳐 모든 챕터를 완료하는 것. 챕터별 실습 과제 위주로 학습을 진행한다.
+
+
+.*상세내용* +
+* 선택 과정 2의 챕터의 수는 총 13개로, 3주차~4주차 (15~20일)에 걸쳐 모든 챕터를 완료하는 것을 목표로 합니다.
+
+* 선택 과정 1과 2의 주제가 비슷한 것을 고려하여, 실습 내용은 1, 2에서 모두 고려하여 학습합니다.
+
+* 월요일부터 목요일은 선택 과정의 학습, 금요일은 서브 주제의 학습을 진행합니다.
+
+* 오전은 학습, 오후는 챕터의 과제를 풀이합니다.
+
+* 매일매일 오전 1시간~2시간은 프로그래머스 레벨 1 수준의 문제를 풀이하고 코드를 공유하고 리뷰합니다.
+
+* 모든 코드와 진행상황은 Github에 공유합니다.
+
+* 일정과 내용은 유동적으로 변경될 수 있습니다.
+
+
+.*타임 테이블* +
+* 9시 ~ 10시 30분 : 기초 수준의 알고리즘 문제를 풀이하고 코드 리뷰를 진행한다.
+* 10시 30분 ~ 11시 30분 : 오후에 풀이할 과제의 내용을 확인하고 예습한다.
+* 오후 1시 ~ 4시 : 과제를 풀이한다.
+* 오후 4시 ~ 6시 : 코드 리뷰를 진행한다.
+
+
+.*1주차*
+* *챕터 1 ~ 5* +
+Chapter 1: Overview: The Mental Landscape +
+Chapter 2: Programming in the Small I: Names and Things +
+Chapter 3: Programming in the Small II: Control +
+Chapter 4: Programming in the Large I: Subroutines +
+Chapter 5: Programming in the Large II: Objects and Class +
+
+.*2주차*
+* *챕터 6 ~ 8* +
+Chapter 6: Introduction to GUI Programming +
+Chapter 7: Arrays, ArrayLists, and Records +
+Chapter 8: Correctness, Robustness, Efficiency +
+
+.*3주차*
+* *챕터 9 ~ 11* + 
+Chapter 9: Linked Data Structures and Recursion +
+Chapter 10: Generic Programming and Collection Classes +
+Chapter 11: Input/Output Streams, Files, and Networking + 
+
+.*4주차*
+* *챕터 11 ~ 13* +
+Chapter 11: Input/Output Streams, Files, and Networking +
+Chapter 12: Threads and Multiprocessing +
+
+
+
