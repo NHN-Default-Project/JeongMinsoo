@@ -1,4 +1,4 @@
-package JeongMinsoo.week1.Chapter3;
+package Excercise3_3;
 
 import textio.TextIO;
 
@@ -6,18 +6,22 @@ public class Excercise3_3 {
 
     public static void main(String[] args) {
         while (true) {
-            System.out.print("간단한 표현식을 입력해주세요(*, -, +) : ");
+            try {
+                System.out.print("간단한 표현식을 입력해주세요(*, -, +) : ");
 
-            double num1 = TextIO.getDouble();
+                double num1 = TextIO.getDouble();
 
-            if (num1 == 0) {
-                break;
+                if (num1 == 0) {
+                    break;
+                }
+
+                char operator = TextIO.getChar();
+                double num2 = TextIO.getDouble();
+                System.out.printf("%.2f %c %.2f = ", num1, operator, num2);
+                System.out.println(expression(num1, operator, num2));
+            } catch (IllegalArgumentException e) {
+                System.out.println(e.getMessage());
             }
-
-            char operator = TextIO.getChar();
-            double num2 = TextIO.getDouble();
-            System.out.printf("%.2f %c %.2f = ", num1, operator, num2);
-            System.out.println(expression(num1, operator, num2));
 
         }
 
