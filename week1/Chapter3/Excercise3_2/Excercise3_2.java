@@ -16,6 +16,7 @@ public class Excercise3_2 {
         int bigDivisorNum = 0;
 
         for (int num = 1; num <= number; num++) {
+
             for (int divisor = 1; divisor * divisor <= num; divisor++) {
                 if (divisor * divisor == num) {
                     divisorCount++;
@@ -23,6 +24,7 @@ public class Excercise3_2 {
                     divisorCount += 2;
                 }
             }
+
             if (divisorCount >= bigDivisorNum) {
                 bigNum = num;
                 bigDivisorNum = divisorCount;

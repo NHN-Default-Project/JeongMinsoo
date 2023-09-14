@@ -20,7 +20,7 @@ public class MaxDivisor {
 
     }
 
-    public void calMaxDivisor() {
+    private void calMaxDivisor() {
         int divisorCount = 0;
 
         for (int num = 1; num <= inputNumber; num++) {

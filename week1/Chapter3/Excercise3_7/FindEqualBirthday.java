@@ -3,13 +3,9 @@ package Excercise3_7;
 class FindEqualBirthday {
     private int[] used;
     private int count;
-    private int targetPeople;
+    private final int targetPeople;
 
     private final int DAYS = 365;
-
-    private FindEqualBirthday() {
-
-    }
 
     public FindEqualBirthday(int targetPeople) {
         this.targetPeople = targetPeople;
@@ -22,7 +18,8 @@ class FindEqualBirthday {
         while (true) {
 
             int birthday = (int) (Math.random() * DAYS);
-            count++;
+            this.count++;
+            this.used[birthday] += 1;
 
             // System.out.printf("Person %d has birthday number %d%n", count, birthday);
 
@@ -30,20 +27,18 @@ class FindEqualBirthday {
                 break;
             }
 
-            used[birthday] += 1;
-
         } // end while
     }
 
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("같은 생일을 가진 사람 ");
-        sb.append(targetPeople);
-        sb.append("명 찾는데에 ");
-        sb.append(this.count);
-        sb.append("번이 걸렸습니다.");
-        return sb.toString();
+        return sb.append("같은 생일을 가진 사람 ")
+                .append(targetPeople)
+                .append("명 찾는데에 ")
+                .append(this.count)
+                .append("번이 걸렸습니다.")
+                .toString();
     }
 
     public int getCount() {

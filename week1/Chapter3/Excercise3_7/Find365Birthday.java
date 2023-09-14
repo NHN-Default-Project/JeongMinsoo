@@ -1,18 +1,21 @@
 package Excercise3_7;
 
-public class Find365Birthday {
+public class Find365Birthday extends Birth {
     private boolean[] used;
     private int peopleCount;
 
     private final int DAYS = 365;
 
     public Find365Birthday() {
+        super("1일~365일 각각마다 생일이 있는 사람을 찾는데에");
         this.used = new boolean[DAYS];
         this.peopleCount = 0;
         calculate();
+
+        super.setCount(count);
     }
 
-    private void calculate() {
+    public void calculate() {
         int count = 0;
         while (true) {
             int birthday = (int) (Math.random() * DAYS);
@@ -25,21 +28,11 @@ public class Find365Birthday {
                 used[birthday] = true;
             }
 
-            if (count == 365) {
+            if (count == DAYS) {
                 break;
             }
 
         }
-    }
-
-    @Override
-    public String toString() {
-        StringBuilder sb = new StringBuilder();
-        sb.append("1일~365일 각각마다 생일이 있는 사람을 찾는데에");
-        sb.append(this.peopleCount);
-        sb.append("명을 찾았습니다.");
-
-        return sb.toString();
     }
 
 }

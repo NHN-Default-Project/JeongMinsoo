@@ -17,6 +17,8 @@ public class Excerciese3_5 {
                 String str = TextIO.getln();
                 citySales.add(new CitySales(str));
             } catch (IllegalArgumentException e) {
+                notReceiveCount++;
+
                 System.out.println(e.getMessage());
             }
 
@@ -24,9 +26,7 @@ public class Excerciese3_5 {
 
         for (CitySales city : citySales) {
             System.out.printf("%s의 매출 : %.2f\n", city.getName(), city.getSales());
-            if (!city.isReceived()) {
-                notReceiveCount++;
-            }
+
             salesSum += city.getSales();
         }
         System.out.println("총 매출 : " + salesSum);

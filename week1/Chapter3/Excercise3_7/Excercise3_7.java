@@ -13,3 +13,27 @@ public class Excercise3_7 {
     }
 
 }
+
+interface FindBirth {
+    void calculate();
+}
+
+abstract class Birth implements FindBirth {
+
+    protected final String str;
+    protected int count;
+
+    public Birth(String str) {
+        this.str = str;
+    }
+
+    public void setCount(int count) {
+        this.count = count;
+    }
+
+    @Override
+    public final String toString() {
+        return str + count + "명입니다.";
+    }
+}
+

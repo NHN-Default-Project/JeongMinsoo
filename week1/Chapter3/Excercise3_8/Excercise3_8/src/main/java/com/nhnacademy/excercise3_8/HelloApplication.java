@@ -26,26 +26,24 @@ public class HelloApplication extends Application {
         g.setFill(Color.WHITE);
         g.fillRect(0, 0, width, height); // First, fill the entire image with a background color.
 
-        int centerX = 0;
-        int centerY = 0;
+        int centerX = -50;
+        int centerY = -50;
 
         int addValue = 50;
-        boolean isRed = true;
-        for (int countY = 0; countY < 8; countY++) {
-            for (int countX = 0; countX < 8; countX++) {
+
+        for (int countY = 0; countY < 9; countY++) {
+            for (int countX = 0; countX < 9; countX++) {
 
                 centerX = centerX + addValue;
 
-                if (isRed) {
+                if ((countX % 2 == 0 && countY % 2 == 0) || (countX % 2 == 1 && countY % 2 == 1)) {
                     g.setFill(Color.RED);
-                    isRed = false;
                 } else {
                     g.setFill(Color.BLACK);
-                    isRed = true;
                 }
                 g.fillRect(centerX, centerY, 50, 50);
             }
-            centerX = 0;
+            centerX = -50;
             centerY = centerY + addValue;
         }
 
@@ -60,7 +58,7 @@ public class HelloApplication extends Application {
         Canvas canvas = new Canvas(width, height);
         drawPicture(canvas.getGraphicsContext2D(), width, height);
         BorderPane root = new BorderPane(canvas);
-        root.setStyle("-fx-border-width: 4px; -fx-border-color: #444");
+        root.setStyle("-fx-border-width: 30px; -fx-border-color: #444");
         Scene scene = new Scene(root);
         stage.setScene(scene);
         stage.setTitle("Simple Graphics"); // STRING APPEARS IN WINDOW TITLEBAR!
