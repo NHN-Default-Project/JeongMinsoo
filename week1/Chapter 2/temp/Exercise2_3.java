@@ -1,4 +1,4 @@
-package temp;
+package com.nhnacademy.jminsoo.temp;
 
 public class Exercise2_3 {
     public static void main(String[] args) {

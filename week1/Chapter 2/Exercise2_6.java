@@ -1,3 +1,5 @@
+package com.nhnacademy.jminsoo;
+
 import textio.TextIO;
 
 public class Exercise2_6 {

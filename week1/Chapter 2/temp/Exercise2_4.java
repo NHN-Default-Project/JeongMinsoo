@@ -1,4 +1,4 @@
-package temp;
+package com.nhnacademy.jminsoo.temp;
 
 import java.util.Scanner;
 

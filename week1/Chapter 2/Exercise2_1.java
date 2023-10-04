@@ -1,3 +1,5 @@
+package com.nhnacademy.jminsoo;
+
 public class Exercise2_1 {
         public static void main(String[] args) {
 

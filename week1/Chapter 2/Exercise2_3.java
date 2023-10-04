@@ -1,3 +1,5 @@
+package com.nhnacademy.jminsoo;
+
 import java.util.Scanner;
 
 public class Exercise2_3 {

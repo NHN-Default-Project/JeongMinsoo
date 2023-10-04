@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a684e81f-7258-47be-a332-6c9aa174ba24" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JeongMinsoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/textio/TextIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/textio/TextIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_1/Excercise3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_2/Excercise3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_3/Excercise3_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_4/Excercise3_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_5/CitySales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_5/Excerciese3_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_5/sales.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_6/Excercise3_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_6/MaxDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/Excercise3_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/Find365Birthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/FindDifferentBirthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/FindEqualBirthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/com/nhnacademy/excercise3_8/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/com/nhnacademy/excercise3_8/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/resources/com/nhnacademy/excercise3_8/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/SimpleGraphicsStarter.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2WHGsWzaHJlYJxnu84zon0FMoxI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/minsoo/NHN/JeongMinsoo/.idea",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.infernus.idea.checkstyle.CheckStyleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a684e81f-7258-47be-a332-6c9aa174ba24" name="변경" comment="" />
+      <created>1696382299134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696382299134</updated>
+      <workItem from="1696382300389" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
