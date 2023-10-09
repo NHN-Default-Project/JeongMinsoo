@@ -1,0 +1,15 @@
+Index: ../starcraft/.idea/shelf/10_4_23__10_33AM__________.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../starcraft/.idea/shelf/10_4_23__10_33AM__________.xml b/../starcraft/.idea/shelf/10_4_23__10_33AM__________.xml
+new file mode 100644
+--- /dev/null	(date 1696383335435)
++++ b/../starcraft/.idea/shelf/10_4_23__10_33AM__________.xml	(date 1696383335435)
+@@ -0,0 +1,4 @@
++<changelist name="10_4_23,_10_33 AM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]" date="1696383180873" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/10_4_23,_10_33 AM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" />
++  <option name="DESCRIPTION" value="10/4/23, 10:33 AM, 업데이트 전에 커밋되지 않은 변경 내용 [변경]" />
++</changelist>
+\ No newline at end of file

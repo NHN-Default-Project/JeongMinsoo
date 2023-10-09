@@ -1,0 +1,233 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a684e81f-7258-47be-a332-6c9aa174ba24\" name=\"변경\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/JeongMinsoo.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/checkstyle-idea.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Assignment.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_1.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_1.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_2.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_2.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_3.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_3.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_4.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_4.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_5.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_5.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_6.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_6.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_7.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/Exercise2_7.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_1.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_1.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_3.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_3.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_4.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_4.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_5.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_5.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter 2/textio/TextIO.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/week1/Chapter 2/textio/TextIO.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_1/Excercise3_1.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_2/Excercise3_2.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_3/Excercise3_3.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_4/Excercise3_4.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_5/CitySales.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_5/Excerciese3_5.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_5/sales.dat\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_6/Excercise3_6.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_6/MaxDivisor.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_7/Excercise3_7.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_7/Find365Birthday.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_7/FindDifferentBirthday.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_7/FindEqualBirthday.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.gitignore\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/.gitignore\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/checkstyle-idea.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/encodings.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/misc.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/vcs.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.mvn/wrapper/maven-wrapper.jar\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.mvn/wrapper/maven-wrapper.properties\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/mvnw\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/mvnw.cmd\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/pom.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/com/nhnacademy/excercise3_8/HelloApplication.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/com/nhnacademy/excercise3_8/HelloController.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/module-info.java\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/resources/com/nhnacademy/excercise3_8/hello-view.fxml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/week1/Chapter3/Excercise3_8/SimpleGraphicsStarter.java\" beforeDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FormatOnSaveOptions\">\n    <option name=\"myRunOnSave\" value=\"true\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"OptimizeOnSaveOptions\">\n    <option name=\"myRunOnSave\" value=\"true\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 6\n}]]></component>\n  <component name=\"ProjectId\" id=\"2WHGsWzaHJlYJxnu84zon0FMoxI\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Downloaded.Files.Path.Enabled\": \"false\",\n    \"Repository.Attach.Annotations\": \"false\",\n    \"Repository.Attach.JavaDocs\": \"false\",\n    \"Repository.Attach.Sources\": \"false\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"last_opened_file_path\": \"/Users/minsoo/NHN/JeongMinsoo/.idea\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"project.structure.last.edited\": \"Global Libraries\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"settings.editor.selected.configurable\": \"org.infernus.idea.checkstyle.CheckStyleConfigurable\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/.idea\" />\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\n      <changelist id=\"a684e81f-7258-47be-a332-6c9aa174ba24\" name=\"변경\" comment=\"\" />\n      <created>1696382299134</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1696382299134</updated>\n      <workItem from=\"1696382300389\" duration=\"126000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision b5d5bb27b6f8b8aea93e6bebac0fc80b0afb9d0e)
++++ b/.idea/workspace.xml	(date 1696383170313)
+@@ -5,57 +5,42 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="a684e81f-7258-47be-a332-6c9aa174ba24" name="변경" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/JeongMinsoo.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Assignment.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_1.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_2.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_3.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_4.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_5.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_6.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/Exercise2_7.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_1.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_3.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_4.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/temp/Exercise2_5.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter 2/textio/TextIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/week1/Chapter 2/textio/TextIO.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_1/Excercise3_1.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_2/Excercise3_2.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_3/Excercise3_3.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_4/Excercise3_4.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_5/CitySales.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_5/Excerciese3_5.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_5/sales.dat" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_6/Excercise3_6.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_6/MaxDivisor.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/Excercise3_7.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/Find365Birthday.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/FindDifferentBirthday.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_7/FindEqualBirthday.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/.gitignore" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/checkstyle-idea.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/encodings.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/misc.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.idea/vcs.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/mvnw" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/mvnw.cmd" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/pom.xml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/com/nhnacademy/excercise3_8/HelloApplication.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/com/nhnacademy/excercise3_8/HelloController.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/java/module-info.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/Excercise3_8/src/main/resources/com/nhnacademy/excercise3_8/hello-view.fxml" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week1/Chapter3/Excercise3_8/SimpleGraphicsStarter.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/.idea/checkstyle-idea.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/.idea/encodings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/attackType/CanAttackFlyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/attackType/CanAttackFlyable.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/factories/ProtosFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/factories/ProtosFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/factories/TerranFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/factories/TerranFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/factories/UnitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/factories/UnitFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/factories/ZergFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/factories/ZergFactory.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/game/AttackControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/game/AttackControl.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/game/GameControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/game/GameControl.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/game/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/game/Player.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/game/UnitCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/game/UnitCreator.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/Unit.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Carrier.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Corsair.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Corsair.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Dragoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Dragoon.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/HighTempler.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/HighTempler.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Scout.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Scout.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Zealot.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Zealot.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/BattleCruzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/BattleCruzer.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Goliath.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Goliath.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Marine.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Marine.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Tank.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Valkyrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Valkyrie.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Wraith.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Wraith.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Gurdian.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Gurdian.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Hydralisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Hydralisk.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Mutalisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Mutalisk.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Queen.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Ultralisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Ultralisk.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Zergling.java" beforeDir="false" afterPath="$PROJECT_DIR$/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Zergling.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -71,9 +56,9 @@
+   <component name="OptimizeOnSaveOptions">
+     <option name="myRunOnSave" value="true" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 6
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 6
++}</component>
+   <component name="ProjectId" id="2WHGsWzaHJlYJxnu84zon0FMoxI" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+@@ -92,6 +77,7 @@
+     "git-widget-placeholder": "main",
+     "last_opened_file_path": "/Users/minsoo/NHN/JeongMinsoo/.idea",
+     "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
+     "project.structure.last.edited": "Global Libraries",
+     "project.structure.proportion": "0.0",
+     "project.structure.side.proportion": "0.2",
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Zergling.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Zergling.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Zergling.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Zergling.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Ultralisk.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Ultralisk.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Ultralisk.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Ultralisk.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Mutalisk.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Mutalisk.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Mutalisk.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Mutalisk.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Gurdian.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Gurdian.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Gurdian.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Gurdian.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Corsair.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Corsair.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Corsair.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Corsair.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Hydralisk.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Hydralisk.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Hydralisk.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Hydralisk.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Zealot.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Zealot.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Zealot.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Zealot.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/HighTempler.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/HighTempler.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/HighTempler.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/HighTempler.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Dragoon.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Dragoon.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Dragoon.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Dragoon.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Scout.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Scout.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Scout.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Scout.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Wraith.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Wraith.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Wraith.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Wraith.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Carrier.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Carrier.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/protos/Carrier.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/protos/Carrier.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Goliath.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Goliath.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Goliath.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Goliath.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Valkyrie.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Valkyrie.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Valkyrie.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Valkyrie.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Marine.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Marine.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Marine.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Marine.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Tank.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Tank.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/Tank.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/Tank.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/factories/ProtosFactory.java b/starcraft/src/main/java/com/nhnacademy/starcraft/factories/ProtosFactory.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/factories/ProtosFactory.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/factories/ProtosFactory.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/BattleCruzer.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/BattleCruzer.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/terran/BattleCruzer.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/terran/BattleCruzer.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/factories/TerranFactory.java b/starcraft/src/main/java/com/nhnacademy/starcraft/factories/TerranFactory.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/factories/TerranFactory.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/factories/TerranFactory.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/factories/ZergFactory.java b/starcraft/src/main/java/com/nhnacademy/starcraft/factories/ZergFactory.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/factories/ZergFactory.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/factories/ZergFactory.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/attackType/CanAttackFlyable.java b/starcraft/src/main/java/com/nhnacademy/starcraft/attackType/CanAttackFlyable.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/attackType/CanAttackFlyable.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/attackType/CanAttackFlyable.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/factories/UnitFactory.java b/starcraft/src/main/java/com/nhnacademy/starcraft/factories/UnitFactory.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/factories/UnitFactory.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/factories/UnitFactory.java
+diff --git a/untitled/.idea/checkstyle-idea.xml b/starcraft/.idea/checkstyle-idea.xml
+rename from untitled/.idea/checkstyle-idea.xml
+rename to starcraft/.idea/checkstyle-idea.xml
+diff --git a/untitled/.idea/workspace.xml b/starcraft/.idea/workspace.xml
+rename from untitled/.idea/workspace.xml
+rename to starcraft/.idea/workspace.xml
+diff --git a/untitled/.idea/misc.xml b/starcraft/.idea/misc.xml
+rename from untitled/.idea/misc.xml
+rename to starcraft/.idea/misc.xml
+diff --git a/untitled/pom.xml b/starcraft/pom.xml
+rename from untitled/pom.xml
+rename to starcraft/pom.xml
+diff --git a/untitled/.gitignore b/starcraft/.gitignore
+rename from untitled/.gitignore
+rename to starcraft/.gitignore
+diff --git a/untitled/.idea/vcs.xml b/starcraft/.idea/vcs.xml
+rename from untitled/.idea/vcs.xml
+rename to starcraft/.idea/vcs.xml
+diff --git a/untitled/.idea/encodings.xml b/starcraft/.idea/encodings.xml
+rename from untitled/.idea/encodings.xml
+rename to starcraft/.idea/encodings.xml
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/Main.java b/starcraft/src/main/java/com/nhnacademy/starcraft/Main.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/Main.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/Main.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/game/AttackControl.java b/starcraft/src/main/java/com/nhnacademy/starcraft/game/AttackControl.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/game/AttackControl.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/game/AttackControl.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/game/UnitCreator.java b/starcraft/src/main/java/com/nhnacademy/starcraft/game/UnitCreator.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/game/UnitCreator.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/game/UnitCreator.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/game/Player.java b/starcraft/src/main/java/com/nhnacademy/starcraft/game/Player.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/game/Player.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/game/Player.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/game/GameControl.java b/starcraft/src/main/java/com/nhnacademy/starcraft/game/GameControl.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/game/GameControl.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/game/GameControl.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/Unit.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/Unit.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/Unit.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/Unit.java
+diff --git a/untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Queen.java b/starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Queen.java
+rename from untitled/src/main/java/com/nhnacademy/starcraft/unit/zerg/Queen.java
+rename to starcraft/src/main/java/com/nhnacademy/starcraft/unit/zerg/Queen.java
