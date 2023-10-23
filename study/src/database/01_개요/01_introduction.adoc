@@ -1,0 +1,54 @@
+// :hardbreaks:
+= Database: 개요
+:sectnums:
+:asciidoc: 아스키독
+*일시* : 2023-10-12
+*작성자* : 정민수
+== 개요
+
+*Database System의 등장 배경*
+
+* 동시성 제어의 필요
+* 데이터의 검색 / 갱신
+* 사용자 별 접근 제한의 용이성(보안성) 필요
+
+*SQL (Structured Query Language)*
+
+* 관계형 데이터베이스는 모든 것이 집합으로 이루어져 있다고 여기는 것으로, SQL 역시 집합 지향 언어이다.
+
+*데이터베이스의 종류*
+
+* Hierarchical Database (계층형 데이터베이스) : 계층구조로 관리.
+* Relation Database (관계형 데이터베이스) : 2차원 표 형식으로 데이터 관리
+* Object Oriented Database (객체지향 데이터베이스), XML Database : 객체와 XML 형식으로 데이터 관리
+* NoSQL Database : Relation Database의 기능을 일부 버려서 성능을 개선함.
+
+*RDB (Relation Database)*
+
+* 대표 데이터 베이스 : Oracle DB, MSSQL, MySQL
+
+*NoSQL 데이터베이스의 종류*
+
+* Key-value Database
+* Document Database
+* Column Family Database
+* Graph Database
+
+=== 관계형 데이터베이스를 활용하는데 필요한 것들
+
+데이터베이스의 활용은 컴퓨터 기술의 집합체
+
+- Database 설계 및 활용
+1. 개념 DB 설계 ER 모델
+2. 스키마 설계 FD, 정규화
+3. 물리 DB 설계, 조정
+4. 관계 대수, 관계 해석(QBE, SQL, Security)
+5. 쿼리 최적화
+6. 관계 연산자 구현
+
+- Database 활용에 필요한 컴퓨터 기술
+1. 디스크와 파일
+2. 파일 조직 개요(트리 구조 인덱스, 해시 인덱스, 외부 정렬)
+3. 동시성 제어
+
+link:02_data_and_information.adoc[다음 : 데이터와 정보]
