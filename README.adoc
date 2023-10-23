@@ -1,0 +1,117 @@
+:hardbreaks:
+= NHN ACADEMY 4기 D.P. TEAM
+
+*팀명* : DP (Default Project) +
+*구성원* : 정민수, 최윤화, 박민수, 정재현, 이가은 +
+*그룹과정* : 선택과정 2를 중심으로, 4주차(~20일)에 걸쳐 모든 챕터를 완료하는 것.
+챕터별 실습 과제 위주로 학습을 진행한다.
+
+[cols=2*,options=header]
+|===
+
+|Name
+|URL
+
+|박민수 🤜🏻🖥️
+|https://github.com/NHN-Default-Project/DefaultProject/tree/parkminsu
+
+|이가은 🌝
+|https://github.com/NHN-Default-Project/DefaultProject/tree/gaeun
+
+|정민수 🐻🥩
+|https://github.com/NHN-Default-Project/DefaultProject/tree/Jminsoo
+
+|정재현 🦴
+|https://github.com/NHN-Default-Project/DefaultProject/tree/jaehyeon
+
+|최윤화 🌟💫
+|https://github.com/NHN-Default-Project/DefaultProject/tree/yunhwa
+
+|===
+
+.*요약*
+* 선택 과정 2의 챕터의 수는 총 13개로, 4주차 (20일)에 걸쳐 모든 챕터를 완료하는 것을 목표로 합니다.
+
+* 선택 과정 1과 2의 주제가 비슷한 것을 고려하여, 실습 내용은 1, 2에서 모두 고려하여 학습합니다.
+
+* 오전은 학습, 오후는 챕터의 과제를 풀이합니다.
+
+* 오전에는 용어 및 개념 학습을 진행하고 모호한 내용에 대해 토의합니다.
+
+* 오후에는 Excercise를 풀이하고 코드 리뷰를 진행합니다.
+
+* 모든 코드와 진행상황은 Github에 공유합니다.
+
+* 일정과 내용은 유동적으로 변경될 수 있습니다.
+
+
+.*타임 테이블*
+* 9시 ~ 10시 30분 : 개인 공부 및 용어 학습
+* 10시 30분 ~ 11시 30분 : 용어 정리 및 토의
+* 오후 1시 ~ 4시 30분 : Excercise 문제 풀이
+* 오후 4시 ~ 6시 : 코드 리뷰를 진행하고 업로드한다.
+
+.JAVA FX
+원문 : https://math.hws.edu/javanotes/
+번역문 : https://wikidocs.net/book/6039
+
+- 진행상황
+
+* [x] Chapter 1: Overview: The Mental Landscape
+* [x] Chapter 2: Programming in the Small I: Names and Things
+* [x] Chapter 3: Programming in the Small II: Control
+* [x] Chapter 4: Programming in the Large I: Subroutines
+* [x] Chapter 5: Programming in the Large II: Objects and Class
+* [-] Chapter 6: Introduction to GUI Programming
+* [ ] Chapter 7: Arrays, ArrayLists, and Records
+* [ ] Chapter 8: Correctness, Robustness, Efficiency
+* [ ] Chapter 9: Linked Data Structures and Recursion
+* [ ] Chapter 10: Generic Programming and Collection Classes
+* [ ] Chapter 11: Input/Output Streams, Files, and Networking
+* [ ] Chapter 12: Threads and Multiprocessing
+
+
+.기타 사항(추가 서브 과정)
+- 진행상황
+
+* [ ] Concurrent Programming (Process, thread, synchronized block, method)
+* [ ] Java network programming
+* [ ] Command-line arguments
+* [ ] JSON (serialization, marshalling)
+* [ ] Event driven programming
+* [ ] SICP, MIT 6.001
+
+
+.Commit Message
+* FEAT : 새로운 기능의 추가
+* FIX: 버그 수정
+* DOCS: 문서 수정(readme 파일등등)
+* STYLE: 스타일 관련 기능(코드 포맷팅, 세미콜론 누락, 코드 자체의 변경이 없는 경우)
+* REFACTOR: 코드 리펙토링
+* FILE : 파일 이동
+* RENAME : 파일 이름 바꾸는거
+* TEST : 테스트 코드
+* REMOVE : 파일 삭제
+* CHORE : 빌드 업무수정, 패키지 매니저 수정 등등 (gitignore수정)
+
+.공동 목표
+* 1. 기술 스킬 향상 : 프로그래밍 언어, 프레임워크, 도구 등 전반적으로 프로그래밍 기반을 다짐.
+* 2. 프로젝트 완료 및 성공 : 자그만한 프로젝트라도 성공적으로 완료하고 프로젝트 관리 및 협업 능력을 개발.
+* 3. 코드 품질과 유지보수 : 코드 리뷰, 테스트 주도 개발, 문서화 능력 향상.
+* 4. 문제 해결 능력 강화 : 알고리즘과 데이터 구조를 이해하고 전반적인 CS 지식 강화.
+* 5. 커뮤니케이션 및 협업 능력 강화 : 다른 팀원들과 원활하게 협력하고 의사소통 및 커뮤니케이션 강화.
+* 6. 최종 목표 : 웹 사이트 제작 프로젝트.
+
+.movie 과제
+* 박민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/parkminsu/Assignment/src/main/java/org/example/parkminsu/movie
+* 이가은 : https://github.com/NHN-Default-Project/DefaultProject/tree/gaeun/Assignment/src/main/java/org/example/gaeun/movies
+* 정민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/Jminsoo/Assignment/src/main/java/org/example/Jminsoo/movie
+* 정재현 : https://github.com/NHN-Default-Project/DefaultProject/tree/jaehyeon/Assignment/src/main/java/org/example/jaehyeon/movie
+* 최윤화 : https://github.com/NHN-Default-Project/DefaultProject/tree/yunhwa/Assignment/src/main/java/org/example/yunhwa/moviescsv
+
+.스타크래프트 과제
+* 박민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/parkminsu/Assignment/src/main/java/org/example/parkminsu/starcraft
+* 이가은 : https://github.com/NHN-Default-Project/DefaultProject/tree/gaeun/Assignment/src/main/java/org/example/gaeun/starcraft
+* 정민수 : https://github.com/NHN-Default-Project/DefaultProject/tree/Jminsoo/Assignment/src/main/java/org/example/Jminsoo/starcraft
+* 정재현 : https://github.com/NHN-Default-Project/DefaultProject/tree/jaehyeon/Assignment/src/main/java/org/example/jaehyeon/starcraft
+* 최윤화 : https://github.com/NHN-Default-Project/DefaultProject/tree/yunhwa/Assignment/src/main/java/org/example/yunhwa/starcraft
